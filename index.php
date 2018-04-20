@@ -26,4 +26,5 @@ include 'conecta.php';
 	}
 	echo "</table>";
 	mysqli_close( $conexion );
+include 'ip.php';
 ?>
