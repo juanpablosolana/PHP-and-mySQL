@@ -21,9 +21,11 @@ if (mysqli_query($conexion, $sql)) {
 
 mysqli_close($conexion);
 ?>
+<html>
+<body>
 <script type="text/javascript">
-function redireccionar(){
-  window.locationf="alta.php";
-} 
-setTimeout ("redireccionar()", 10); //tiempo expresado en milisegundos
+window.location="inventario.php";
 </script>
+</body>
+</html>
+

@@ -1,6 +1,6 @@
 <?php
-        $usuario = "link";
-        $password = "bolas";
+        $usuario = "recuperacion";
+        $password = "qHo4M9twS8kmkOrn";
         $servidor = "localhost";
         $basededatos = "recuperacion";
         // creación de la conexión a la base de datos con mysql_connect()
